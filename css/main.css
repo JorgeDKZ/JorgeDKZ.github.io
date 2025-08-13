@@ -1,0 +1,13 @@
+html{
+    background-color: #fde5be;
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body{
+    background-image: url(../images/background.png);
+    background-size: 35%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
