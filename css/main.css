@@ -21,6 +21,7 @@ body{
 
 #myImagen {
   display: block;
+  border-radius: 10px;
   margin-top: auto;
   margin-left: auto;
   margin-right: 0;
